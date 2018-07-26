@@ -5,7 +5,7 @@ export const Wrapper = styled.main`
   min-height: 400px;
   margin: 0 auto;
   padding: 15px 20px;
-  background-color: #F8F8F8;
+  background-color: #3d4252;
 `;
 
 export default Wrapper;

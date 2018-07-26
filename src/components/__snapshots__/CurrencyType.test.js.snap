@@ -1,3 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`should render CurrencyType with children 1`] = `"<div class=\\"sc-bdVaJa gEOrok\\">Test</div>"`;
